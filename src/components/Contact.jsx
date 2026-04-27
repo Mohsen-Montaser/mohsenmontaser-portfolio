@@ -16,7 +16,7 @@ export default function Contact() {
       <div className="section-accent" />
 
       <motion.p
-        className="mt-6 text-[var(--muted)]"
+        className="mt-6 text-muted"
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
         transition={{ delay: 0.2 }}

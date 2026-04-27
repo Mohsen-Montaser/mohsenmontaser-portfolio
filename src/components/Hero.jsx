@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section
       id="hero"
-      className="relative flex flex-col items-center justify-center min-h-screen px-4 sm:px-6 bg-gradient-to-b overflow-hidden"
+      className="relative flex flex-col items-center justify-center min-h-screen px-4 sm:px-6 bg-linear-to-b overflow-hidden"
     >
       <motion.div
         initial={{ opacity: 0, y: 20 }}
@@ -39,10 +39,10 @@ export default function Hero() {
           <span className="inline-block mt-2">Based in Cairo, Egypt</span>
           <br />
           <a
-            href="mailto:mohsenmontaser33@gmail.com"
+            href="mailto:mhsnmntsr33@gmail.com"
             className="text-cyan-400 hover:text-cyan-300 transition-colors inline-block mt-2 break-all"
           >
-            mohsenmontaser33@gmail.com
+            mhsnmntsr33@gmail.com
           </a>
         </p>
 

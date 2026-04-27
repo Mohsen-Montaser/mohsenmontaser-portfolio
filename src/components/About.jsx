@@ -14,7 +14,7 @@ export default function About() {
       </motion.h2>
       <div className="section-accent " />
       <motion.p
-        className="mt-4 sm:mt-6 text-[var(--muted)] leading-relaxed  mx-auto "
+        className="mt-4 sm:mt-6 text-muted leading-relaxed  mx-auto "
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
         transition={{ delay: 0.2 }}
