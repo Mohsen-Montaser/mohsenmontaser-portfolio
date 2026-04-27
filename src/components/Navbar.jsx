@@ -109,7 +109,7 @@ export default function Navbar() {
           {/* Social Icons - Hidden on small mobile, visible on larger screens */}
           <div className="hidden sm:flex items-center gap-3 text-xl text-(--text)">
             <a
-              href="https://github.com/Mohsen-1122836"
+              href="https://github.com/Mohsen-Montaser"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary transition-transform hover:scale-110"
